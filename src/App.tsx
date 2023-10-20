@@ -172,7 +172,7 @@ function App() {
         />
         <Nfts
           imgSrc={brushPng}
-          name='Toilet Brush'
+          name='Toilet Plunger'
           tokenAddr='0x5F4D5...42dE'
           holdings={assets.brush}
           onClick={() => handleNftUse('brush')}
