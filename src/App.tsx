@@ -122,7 +122,7 @@ function App() {
         break
 
       case 'brush':
-        _traits = setTargetTraits(currentId, 'Action', 'Brush')
+        _traits = setTargetTraits(currentId, 'Action', 'Unblock')
         setCurrentAnimation('Toilet')
         break
 
